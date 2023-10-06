@@ -19,7 +19,7 @@ Documentar el repositorio en el archivo README.md
 
 SOLUCIÓN:
 	
-https://github.com/Sandra8723/practica.git
+[Practica Git](https://github.com/Sandra8723/practica.git)
 
 
 
