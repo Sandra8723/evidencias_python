@@ -23,7 +23,7 @@ No. Conforme a la respuesta dada en la primera pregunta.
 
 -Escribe un breve ejemplo de código Python que involucre al menos dos de los siguientes conceptos: funciones, clases, librerías.
 
-```python
+
 class persona:
 	def init (self, nombre, apellido)
 		self.nombre = nombre
