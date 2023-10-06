@@ -56,7 +56,7 @@ Elimina el día de la semana "Lunes" del diccionario.
 Imprime el diccionario nuevamente.
 
 SOLUCIÓN:
-https://colab.research.google.com/drive/10-5RFOqkHR8_rNAC4tL_lv4X8D5tm5_B?hl=es#scrollTo=eXgmBbhXetGl
+[Practicar con listas, tuplas, conjuntos y diccionarios en Python](https://colab.research.google.com/drive/10-5RFOqkHR8_rNAC4tL_lv4X8D5tm5_B?hl=es#scrollTo=eXgmBbhXetGl)
 
 
 
