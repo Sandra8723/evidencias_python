@@ -6,56 +6,31 @@
 
 <!-- Su documentación aquí -->
 
-Actividad:
-Practicar con listas, tuplas, conjuntos y diccionarios en Python.
-Genera un nuevo cuaderno en Google Colab y añade cuatro bloques de código, asignándoles títulos respectivos: "Listas", "Tuplas", "Conjuntos" y "Diccionarios". A continuación, comparte el cuaderno empleando la configuración de "Acceso general - Cualquier persona con el enlace - Editor". A continuación, resuelve los ejercicios que se presentan a continuación:
+Consulta y creación de infografía para cada tema: Python, Git y GitHub (Trabajo grupal)
 
--Listas
-Crea una lista que contenga los números del 1 al 10.
-Imprime la lista en el orden en que fue creada.
-Ordena la lista en orden ascendente.
-Ordena la lista en orden descendente.
-Encuentra el número más pequeño en la lista.
-Encuentra el número más grande en la lista.
-Cuenta el número de veces que aparece el número 5 en la lista.
-Elimina el número 5 de la lista.
-Agrega el número 11 a la lista.
-Imprime la lista nuevamente.
+Objetivo: 
+Aprender los conceptos básicos de Python, Git y GitHub y crear una infografía para cada tema que explique de manera clara y visual.
 
--Tuplas
-Crea una tupla que contenga las palabras "Hola", "mundo" y "Python".
-Imprime la tupla en el orden en que fue creada.
-Ordena la tupla en orden alfabético.
-Encuentra la primera palabra en la tupla.
-Encuentra la última palabra en la tupla.
-Cuenta el número de palabras en la tupla.
-Elimina la palabra "mundo" de la tupla.
-Agrega la palabra "Hola" a la tupla.
-Imprime la tupla nuevamente.
+Instrucciones:
 
--Conjuntos
-Crea un conjunto que contenga los números del 1 al 10.
-Imprime el conjunto.
-Agrega el número 11 al conjunto.
-Elimina el número 5 del conjunto.
-Cuenta el número de elementos en el conjunto.
-Comprueba si el número 5 está en el conjunto.
-Comprueba si el número 11 está en el conjunto.
-Crea un conjunto que contenga las palabras "Hola", "mundo" y "Python".
-Imprime el conjunto.
-Comprueba si la palabra "Hola" está en el conjunto.
-Comprueba si la palabra "mundo" está en el conjunto.
+Investiga sobre Python, Git y GitHub por separado. Busca información sobre qué son, para qué se utilizan y cuáles son sus principales características.
 
--Diccionarios
-Crea un diccionario que asigne los nombres de los días de la semana a sus números correspondientes.
-Imprime el diccionario.
-Obtén el número del día de la semana "Lunes".
-Obtén el día de la semana del número 2.
-Elimina el día de la semana "Lunes" del diccionario.
-Imprime el diccionario nuevamente.
+Selecciona la información más relevante y útil para crear una infografía para cada tema que explique de manera clara y visual los conceptos básicos de Python, Git y GitHub.
 
-SOLUCIÓN:
-https://colab.research.google.com/drive/10-5RFOqkHR8_rNAC4tL_lv4X8D5tm5_B?hl=es#scrollTo=eXgmBbhXetGl
+Utiliza herramientas de diseño gráfico para crear las infografías.
+
+Asegúrate de que cada infografía sea fácil de entender y visualmente atractiva. Utiliza colores llamativos, íconos e imágenes para hacerlas más atractivas.
+
+SOLUCIÓN
+
+https://firebasestorage.googleapis.com/v0/b/loginfbauthrn.appspot.com/o/foto%2FGit.pdf?alt=media&token=7174f6ad-b909-4a35-aead-470b2083bfcc&_gl=1*sbl82d*_ga*MjEzMTM4NTAwNC4xNjk2NTQ5MjUz*_ga_CW55HF8NVT*MTY5NjU1NDgxMi4yLjEuMTY5NjU1NDkyMi42MC4wLjA.
+
+https://firebasestorage.googleapis.com/v0/b/loginfbauthrn.appspot.com/o/foto%2FGithub.pdf?alt=media&token=86059235-76c7-4650-ab34-1fedd54dfcb3&_gl=1*1pcwfd1*_ga*MjEzMTM4NTAwNC4xNjk2NTQ5MjUz*_ga_CW55HF8NVT*MTY5NjU1NDgxMi4yLjEuMTY5NjU1NDk2OC4xNC4wLjA.
+
+https://firebasestorage.googleapis.com/v0/b/loginfbauthrn.appspot.com/o/foto%2FPython.pdf?alt=media&token=8532aefb-f272-4d3c-87bb-c084cb75809d&_gl=1*1yovm2w*_ga*MjEzMTM4NTAwNC4xNjk2NTQ5MjUz*_ga_CW55HF8NVT*MTY5NjU1NDgxMi4yLjEuMTY5NjU1NDk5NC42MC4wLjA.
+
+
+
 
 
 
