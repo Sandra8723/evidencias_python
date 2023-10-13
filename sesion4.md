@@ -34,7 +34,7 @@ resultado = potencia(2, 3)  # Debe devolver 8 (2^3 = 2 * 2 * 2)
 
 SOLUCIÓN
 
-```python 
+```
 ##ejercicio 1
 def calculadora(num1, num2, operador):
     if operador == '+':
@@ -149,6 +149,7 @@ def menu_principal():
     print("fin")
 
 menu_principal() 
+```
 
 
 
