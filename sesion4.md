@@ -48,7 +48,8 @@ def calculadora(num1, num2, operador):
     else:
         return 0
     
-
+```
+```
 ##ejercicio 2
 def contar_vocales(mensaje):
     vocales= 0
@@ -57,28 +58,27 @@ def contar_vocales(mensaje):
             vocales += 1
         
     return vocales
-    
-
+```   
+```
 ##ejercicio 3
 def es_primo(numero):
     for i in range(2, numero):
         if numero % i == 0:
             return False
     return True
-    
-
-
+```    
+```
 ##ejercicio 4
 def contar_palabras(cadena):
     palabras= cadena.split()
     return len(palabras)
-    
-    
+```` 
+```    
 ##ejercicio 5
 def potencia(num1,num2):
     return num1 ** num2
-    
-
+``` 	    
+``` 
 def volver_al_menu():
     respuesta = input("¿Deseas volver al menú principal? (1 para sí, 2 para no): ")
     if respuesta == '1':
@@ -88,8 +88,8 @@ def volver_al_menu():
         exit()
     else:
         print("Respuesta no valida, seleccione 1 para volver al menú o 2 para salir del programa.")
-
-
+```
+```
 def menu_principal():
 
     print("Menu de ejercicios")
