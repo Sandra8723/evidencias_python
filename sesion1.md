@@ -23,14 +23,14 @@ No. Conforme a la respuesta dada en la primera pregunta.
 
 -Escribe un breve ejemplo de código Python que involucre al menos dos de los siguientes conceptos: funciones, clases, librerías.
 
-
+```
 class persona:
 	def init (self, nombre, apellido)
 		self.nombre = nombre
 		self.apellido = apellido
 	def saludo (self)
 		print (“mi nombre es”, self.nombre, “ “, self.apellido)
-
+```
 
 -Escribe los comandos de Git que conoces y una breve explicación de cada uno.
 
