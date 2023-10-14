@@ -146,7 +146,7 @@ st.write("Seleccionar las filas de los autos que son de la marca Honda y el mode
 ej10=df_autos.iloc[:][df_autos["marca"]=='Honda'][df_autos["modelo"]=='Civic']
 st.dataframe(ej10)
 ```
-[Ver en Sreamlit](https://lociloc-2xbhdqhvt4bf5dwjwu6c9v.streamlit.app/)
+[Ver en Streamlit](https://lociloc-2xbhdqhvt4bf5dwjwu6c9v.streamlit.app/)
 
 
 
