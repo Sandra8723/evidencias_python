@@ -44,7 +44,7 @@ data["Fecha"] = pd.to_datetime(data["Fecha"])
 st.header("Despues de Limpieza de Datos")
 data
 ```
-
+[Ver en Streamlit](https://sesion9-bjgrzkd9nxvqepcmdwmdgr.streamlit.app/)
 
 
 
