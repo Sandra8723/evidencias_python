@@ -6,6 +6,12 @@
 
 <!-- Su documentación aquí -->
 
+Actividad:
+
+-Crear un proyecto de Python y utilizar la librería pandas para realizar la limpieza de datos del siguiente conjunto de datos de venta de vehículos
+-Descargar - Conjunto de Datos "Venta de Vehiculos"
+-Documentar los problemas de datos encontrados
+
 ```
 import streamlit as st
 import pandas as pd

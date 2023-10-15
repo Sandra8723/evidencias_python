@@ -5,6 +5,13 @@
 
 
 <!-- Su documentación aquí -->
+
+ Actividad:
+
+-Seleccionar un conjunto de datos del portal de datos de Medellín
+-Ir al portal de datos de Medellín
+-Aplicar 10 filtros al conjunto de datos utilizando la documentación de la sesión 10.
+
 ```
 import pandas as pd
 import streamlit as st
